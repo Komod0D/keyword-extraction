@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+venv/
+category_groups.csv
+Models/organizations.csv
+Models/
+news
+*.csv
+*.npy
+*.set
+*.dta
